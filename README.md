@@ -179,15 +179,24 @@
 </details>
 
 ## Инструменты
+
+<details>
+
 <p align="left"> 
   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="Devtools" /></a>
   <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
  
+***
+
+</details>
 
 ## Процесс работы
-### 1 спринт
+
+<details>
+<summary> Процесс работы 1 спринт </summary> 
+  
 #### Задача 1
 Чек-лист верстки
 
@@ -208,9 +217,11 @@
 
 <img width="1383" alt="Снимок экрана 2025-01-22 в 19 05 20" src="https://github.com/user-attachments/assets/b6030a69-fa97-413f-894f-c6bc79197dbc" />
 
+[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1pgYX7t0fs7QSDCwYDB1ouH95PJtK9Zjx3SOOUUcI3Mg/edit?gid=899462569#gid=899462569)
 
+***
 
-
+</details>
 
 
 
