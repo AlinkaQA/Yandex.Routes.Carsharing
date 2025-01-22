@@ -189,6 +189,23 @@
 ## Процесс работы
 ### 1 спринт
 #### Задача 1
+Чек лист верстки
+
+<img width="1352" alt="Снимок экрана 2025-01-22 в 19 01 25" src="https://github.com/user-attachments/assets/c25a993f-a790-4e13-a399-04c4ffbf555d" />
+
+#### Задача 2
+Чек-лист на логику окон «Способ оплаты» и «Добавление карты»
+
+<img width="1002" alt="Снимок экрана 2025-01-22 в 19 03 13" src="https://github.com/user-attachments/assets/c673b2b3-919c-497c-947b-7eca31494a93" />
+
+Тест-кейсы на кнопку «Забронировать»
+
+<img width="1145" alt="Снимок экрана 2025-01-22 в 19 03 52" src="https://github.com/user-attachments/assets/f1586440-10d7-44ad-bd76-f8aef35d68c8" />
+
+#### Задача 3
+Баг-репорты
+
+<img width="1383" alt="Снимок экрана 2025-01-22 в 19 05 20" src="https://github.com/user-attachments/assets/b6030a69-fa97-413f-894f-c6bc79197dbc" />
 
 
 
